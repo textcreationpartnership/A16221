@@ -6388,9 +6388,12 @@ to be but 100/000. ſo as you cut off the two laſt figures on the
 right hand in euery Sine, but you ſhall better vnderſtand euery
 thing here aboue mentioned, by the figure Demonſtratiue here
 following.</p>
-                     <figure>
-                        <head>The figure Demonſtratiue.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:2698:57"/>
+                        <figure>
+                           <head>The figure Demonſtratiue.</head>
+                        </figure>
+                     </p>
                      <p>In this figure
 you ſée firſt a whol
 Circle drawne vp<g ref="char:EOLhyphen"/>on
@@ -41346,7 +41349,10 @@ thickneſſe, as the line a. b.</p>
                   <p>3. The ends or bounds of a line, are
 two points, and of lines ſome be right, and
 ſome be crooked.</p>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:2698:137"/>
+                     <figure/>
+                  </p>
                   <p>4 A right line is that which goeth right
 from one point to another, and not bowing<g ref="char:EOLhyphen"/>ly
 as doth the line <hi>c. d.</hi> but ſo ſtraight as is
@@ -41389,7 +41395,18 @@ the figure <hi>b.</hi> ſheweth.</p>
                   <figure>
                      <p>Conuex. Concaue.</p>
                   </figure>
-                  <figure/>
+                  <p>8 A plaine Angle is when two lines be<g ref="char:EOLhyphen"/>ing
+drawne vpon a plaine ſuperficies not di<g ref="char:EOLhyphen"/>rectly
+one againſt another, but ſo as by mée<g ref="char:EOLhyphen"/>ting
+or touching one an other in one ſelfe
+point, they may make a plaine Angle, as the
+Angle <hi>a.</hi> 
+                     <figure/>For if two lines be drawne directly
+one againſt another, though they méete in
+one point, yet they make no Angle, but ra<g ref="char:EOLhyphen"/>ther
+one ſelfe line as the two lines <hi>a. b.</hi> mée<g ref="char:EOLhyphen"/>ting
+in the point <hi>c.</hi>
+                  </p>
                   <figure>
                      <p>Right. Crooked. Mixt.</p>
                   </figure>
@@ -42421,9 +42438,12 @@ to vſe the ſame: which ſhape or figure was firſt drawne by Ma<g ref="char:EO
 <hi>Blagraue,</hi> and is ſet downe in his booke called the <hi>Mathe<g ref="char:EOLhyphen"/>maticall
 Iewell.</hi>
                      </p>
-                     <figure>
-                        <figDesc>depiction of astrolabe</figDesc>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:2698:150"/>
+                        <figure>
+                           <figDesc>depiction of astrolabe</figDesc>
+                        </figure>
+                     </p>
                   </div>
                   <div n="9" type="chapter">
                      <head>Of the Circles whereof a materiall Spheare conſiſteth, and
@@ -43507,9 +43527,12 @@ Moone goeth towards the South is called the taile, marked with
 towards the South is called of ſome the belly of the Dragon. And
 note that the Defferent of the Moone is at no time diſtant from
 the Ecliptique aboue 5. degrées at the moſt.</p>
-                     <figure>
-                        <head>The figure of the Dragon.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:2698:157"/>
+                        <figure>
+                           <head>The figure of the Dragon.</head>
+                        </figure>
+                     </p>
                      <p>This being preſuppoſed, I will ſpeake firſt of the Eclipſe of
 the Moone, and then of the Sunne, both which may bee eclipſed ei<g ref="char:EOLhyphen"/>ther
 totally or in part.</p>
@@ -43529,7 +43552,14 @@ yet the earth is not at euery ſuch full diametrally betwixt her and
 the Sun, for then ſhe ſhould be eclypſed at euery ful, which indéed
 cannot be but when ſhe is either in the head or tail of the Dragon.</p>
                      <p>When is the Moone ſaid to be eclipſed in part?</p>
-                     <figure/>
+                     <p>When the Sunne, the earth, and the Moone be met in one ſelfe
+Diametrall line, but the Moone is declining either on the one ſide
+or on the other, as you may plainlie ſée by this figure following.
+<pb n="148" facs="tcp:2698:157"/>
+                        <figure/>
+But note that the Eclipſes of the Moone may be vniuerſall, be<g ref="char:EOLhyphen"/>cauſe
+the Earth is farre bigger than the Moone, and thereby able
+to ſhadow her whole bodie.</p>
                      <p>When is the Sunne ſaide to be eclipſed?</p>
                      <p>When the Moone is betwixt the Sunne and the Earth, which
 chanceth in a Coniunction, and yet not in euery coniunction, but
@@ -46025,14 +46055,16 @@ in all places of the world. All which thinges you ſhall eaſily com<g ref="char
 by theſe two figures following, whereof that on the left
 hande repreſenteth the right Spheare, and the other on the right
 hande repreſenteth the oblique Spheare.</p>
-                     <figure>
-                        <head>A figure of the right
+                     <p>
+                        <figure>
+                           <head>A figure of the right
 Spheare.</head>
-                     </figure>
-                     <figure>
-                        <head>A figure of the oblique
+                        </figure>
+                        <figure>
+                           <head>A figure of the oblique
 Spheare.</head>
-                     </figure>
+                        </figure>
+                     </p>
                      <p>And here I thinke it not amiſſe to ſhewe you howe to finde out
 the length of euery artificiall day and night throughout the yeare
 in euery Latitude by the materiall Spheare, and likewiſe howe
@@ -46673,7 +46705,10 @@ the ſaid ſhippe, but ſaying further from the ſhore, you cannot
 to goe vp to the toppe of the maſt to ſée it, by reaſon that the wa<g ref="char:EOLhyphen"/>ter
 being a round bodie riſeth and ſwelleth in the midſt, and ſo let<g ref="char:EOLhyphen"/>teth
 your ſight as this figure plainely ſheweth.</p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:2698:191"/>
+                        <figure/>
+                     </p>
                   </div>
                   <div n="5" type="chapter">
                      <head>Of the Earth and whether it be all round or not.
@@ -48161,7 +48196,10 @@ Climes here following, notwithſtanding none of thoſe Southern
 Climes were knowne to <hi>Ptolomie</hi> more then <hi>Anti-meroes,</hi>
 and hardly all that, the furtheſt part whereof hath not twentie de<g ref="char:EOLhyphen"/>grées
 of Latitude.</p>
-                     <figure/>
+                     <p>
+                        <pb facs="tcp:2698:205"/>
+                        <figure/>
+                     </p>
                      <p>And note that euery ſuch Clime is deuided into 3. parts, that is
 the beginning, the midſt, &amp; the end. And if you would know what
 degrées and minutes of Latitude euery ſuch part hath, that is to
@@ -49388,7 +49426,10 @@ doe ſhew.</p>
 being drawne from the one to the other, paſſeth through the Cen<g ref="char:EOLhyphen"/>tre
 of the world as you may ſée by the Letters <hi>a. c.</hi> in the figure
 following.</p>
-                     <figure/>
+                     <p>
+                        <pb n="200" facs="tcp:2698:210"/>
+                        <figure/>
+                     </p>
                      <p>And the firſt of theſe called <hi>Antoeci</hi> haue contrarie ſeaſons of
 the yeare, for whe<g ref="char:cmbAbbrStroke">̄</g> it is ſommer to the one, it is winter to the other:
 Againe <hi>Perioeci,</hi> though they haue like ſeaſons of the yeare, yet
@@ -53174,13 +53215,16 @@ all which things this figure here following doth plainely ſhewe.
 And if you would know what Planets ſhould be placed in euerie
 houſe, you muſt learne that out of the Ephemerides, or out of
 ſome of the Aſtronomicall Tables.</p>
-                  <figure>
-                     <head>16. Iunii, Anno
+                  <p>
+                     <pb facs="tcp:2698:245"/>
+                     <figure>
+                        <head>16. Iunii, Anno
 1590. the Sun be<g ref="char:EOLhyphen"/>ing
 in the 4. degr.
 of Cancer, in the
 latitude 52.</head>
-                  </figure>
+                     </figure>
+                  </p>
                   <p>Now becauſe moſt men that doe ſhewe the vſe of the Globes,
 doe alſo teach therein how to finde out the latitude and longitude
 of anie region, I thought good therefore to ſet downe here ſome
@@ -59210,14 +59254,17 @@ being the 24. degrée 40′· of <hi>Leo,</hi> is the fourth houſe, other<g ref
 called <hi>Imum coeli,</hi> and thus you haue all the foure principall
 houſes of heauen for that houre, as you may ſée in this figure
 here following.</p>
-                  <figure>
-                     <head>A figure of the 4. Angles
+                  <p>
+                     <pb n="300" facs="tcp:2698:310"/>
+                     <figure>
+                        <head>A figure of the 4. Angles
 of heauen, made the 12.
 of October 1580. the
 ſunne being then in the
 28. degree 10′· of Libra,
 for the latitude 51. 40′·</head>
-                  </figure>
+                     </figure>
+                  </p>
                   <p>But the difficultie of finding out the true aſcendent conſiſteth
 in knowing whether it is to be ſought in the Northeaſt quarter, or
 in the Southeaſt quarter of the Iewell. The Northeaſt quarter
@@ -60975,9 +61022,13 @@ reſt vpon the verie center of the Horizon, which Circle by reaſon
 of the 16. lines that were firſt drawne paſſing through the ſame,
 is diuided into 16. parts, and the Mariners doe call this circle
 the mother compas.</p>
-                  <figure>
-                     <figDesc>mariners' card</figDesc>
-                  </figure>
+                  <p>
+                     <hi>Here place the Mariners Carde.</hi>
+                     <pb facs="tcp:2698:364"/>
+                     <figure>
+                        <figDesc>mariners' card</figDesc>
+                     </figure>
+                  </p>
                </div>
                <div n="28" type="chapter">
                   <pb n="325" facs="tcp:2698:336"/>
@@ -61681,7 +61732,34 @@ he ſayth, was neuer heretofore knowne to any Pylot but to him
 are to be counted for one degree of Latitude in euerie Rombe
 whereby you ſayle.
 Chap. 32.</head>
-                  <figure/>
+                  <p>
+                     <seg rend="decorInit">F</seg>Irſt you haue to vnderſtande that in ſaylinge
+iuſt North and South, you do alwayes abide vn<g ref="char:EOLhyphen"/>der
+one ſelfe great Circle called the Meridian,
+vnder the which, when you haue ſayled ſo farre as
+the altitude of the Pole is changed one degrée,
+then haue you gone 17. Spaniſh leagues, and a
+halfe, and you haue to note that euery Spaniſh league containeth
+2857. fathams, and that our Engliſh league containeth no more
+but 2500. fathams, ſo as the Spaniſh league is more then our
+Engliſh league by 357. fathams, &amp; euery fatham containeth vi.
+foote. Againe in ſayling Eaſt and Weſt, you do alwayes remaine
+vnder one ſelfe Parallell, by meanes whereof the altitude of the
+<pb facs="tcp:2698:344"/>
+Pole doth neuer alter, and therefore no true account can be made
+of the leagues, but by ſuch meanes as <hi>Cogniet</hi> teacheth in the
+Chapter following. But if in ſayling North and South, you de<g ref="char:EOLhyphen"/>cline
+one rombe either towards the Eaſt or Weſt, and go ſo farre
+as the altitude of the Pole is changed by one degrée, then you
+haue made ſomewhat more then 17. Spaniſh leagues and a halfe,
+and to be ſhort, the more rombes that you decline towardes the
+Eaſt or Weſt, the more leagues in number doe belong to one de<g ref="char:EOLhyphen"/>grée
+of altitude, as you may plainely ſée by this figure demonſtra<g ref="char:EOLhyphen"/>tiue
+here following in which the letter <hi>A.</hi> ſignifieth the place or
+point in the Card, from which you depart ſituated in the Parallel
+<hi>A. B.</hi>
+                     <figure/>
+                  </p>
                   <p>Then ſuppoſe <hi>C. D.</hi> to be another Parallell equally diſtant
 from <hi>A. B.</hi> by one degrée of altitude. Now if you ſaile right Eaſt
 or Weſt, then you ſhall alwayes remaine in the Parallel <hi>A. B.</hi>
@@ -62498,7 +62576,10 @@ little Beare hath alſo the like ſhape ſauing that her féete &amp; belly do
 turne vpwards, ſo as the tippe of her taile is anſwerable to the two
 hindermoſt ſtarres of the great Beare, as you may ſée in theſe fi<g ref="char:EOLhyphen"/>gures
 following.</p>
-                  <figure/>
+                  <p>
+                     <pb n="336" facs="tcp:2698:348"/>
+                     <figure/>
+                  </p>
                   <p>Some do call
 the great beare
 great Charles
@@ -62734,9 +62815,12 @@ the Pole in everie other rombe as well as in the 8. principall
 rombes, which are only contained in the former Table, and
 alſo the true houre of the night, the ſhape whereof followeth.
 Chapter 41.</head>
-                  <figure>
-                     <head>The ſhape or figure of the Rectifier of the North ſtar.</head>
-                  </figure>
+                  <p>
+                     <pb facs="tcp:2698:351"/>
+                     <figure>
+                        <head>The ſhape or figure of the Rectifier of the North ſtar.</head>
+                     </figure>
+                  </p>
                   <p>
                      <pb n="339" facs="tcp:2698:351"/>
                      <hi>
@@ -63105,7 +63189,26 @@ nigh vnto the South pole, as that which is called <hi>Noah</hi> his Doue,
 or Pigeon, and another called <hi>Polophilax,</hi> made in the ſhape of a
 man, whoſe longitude and latitude hath not as yet bene rightlie
 ſet downe by any that I haue read.</p>
-                  <figure/>
+                  <p>But the ſea men of theſe preſent dayes doe moſt commonlie
+obſerue foure great ſtars, which according to the ſhape and forme
+thereof they call the Croſſe, imagining the greateſt ſtarre of the
+foure to be the foot, &amp; that which ſtandeth right ouer him to be the
+head of the croſſe, &amp; the other two to be the 2 armes: and when they
+<pb facs="tcp:2698:355"/>
+ſée that the head doeth directiie anſwere the foote, then they ſay
+<figure/>
+that the foote of the ſaide croſſe is
+right aboue the Pole, and diſtant
+from the ſame 30. degrées. There<g ref="char:EOLhyphen"/>fore,
+hauing taken the altitude or
+height of that ſtar aboue y<hi rend="sup">e</hi> Horizon
+with their Aſtrolabe they ſubtract
+30. degrees from that altitude,
+and the remainder is the eleuation
+of the Pole. <hi>Medina</hi> in his fift
+booke and eleuenth chapter ſetteth
+downe the ſhape of the foreſaide
+croſſe in this maner.</p>
                   <p>And he ſaith that theſe ſtarres are neither anie of thoſe ſtarres
 that are appointed to the twelue Signes in the Zodiaque, nor
 yet any of the 36. Images or conſtellations that bee in heauen.
@@ -64192,7 +64295,10 @@ day of the great rondle, and there ſtaying it firme with your fin<g ref="char:E
 ſéeke in the outermoſt border of the greater rondle the age of
 the Moone, and that will ſhew you in the rondle of houres the ve<g ref="char:EOLhyphen"/>ry
 houre of full ſea that day in that place.</p>
-                  <figure/>
+                  <p>
+                     <pb n="350" facs="tcp:2698:362"/>
+                     <figure/>
+                  </p>
                   <p>But one chiefe thing touching the knowing of the tydes is to
 be noted as <hi>Borne</hi> ſayth, which is that the ſea will flow more by
 one point of the Compaſſe in the ſpring tydes, then in any of the
